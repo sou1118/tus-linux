@@ -1,7 +1,7 @@
 {
     "name": "tus-linux",
     "build": {
-      "dockerfile": "../Dev_Containers"
+      "dockerfile": "Dockerfile"
     },
     "containerUser": "dev"
   }
